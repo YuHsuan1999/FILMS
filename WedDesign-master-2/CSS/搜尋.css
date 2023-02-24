@@ -1,0 +1,40 @@
+
+.dropdown-item.active,
+.dropdown-item:active {
+    color: #3b4044;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+    background: #fec400;
+}
+
+.search-sec {
+    padding: center;
+    margin: 50px;
+    padding-left: 20%;
+}
+
+.search-slt {
+    display: block;
+    width: 100%;
+    font-size: 1em;
+    line-height: 3;
+    color: #55595c;
+    background-color: rgb(230, 223, 223);
+    background-image: none;
+    border: 1px solid #ccc;
+    height: calc(3rem + 2px) !important;
+    border-radius: 0;
+}
+
+.wrn-btn {
+    width: 50%;
+    font-size: 20px;
+    font-weight: 10;
+    height: calc(3rem + 2px) !important;
+    border-radius: 0;
+    border: 1px solid #5f6366;
+    color: #ffffff;
+    background-color: #55595c;
+}

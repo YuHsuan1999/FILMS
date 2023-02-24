@@ -1,0 +1,43 @@
+
+.textarea {
+    font-size: 15px;
+}
+
+.btn-circle.btn {
+    width: 40px;
+    height: 40px;
+    line-height: 1.33;
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+
+.abgne-menu-20140101-1 input[type="radio"] {
+	display: none;
+}
+
+.abgne-menu-20140101-1 input[type="radio"] + label {
+	display: inline-block;
+	background-color: rgb(255, 255, 255);
+	cursor: pointer;
+    padding: 10px 15px;
+    width: 40px;
+    height: 40px;
+    line-height: 1.33;
+    border-radius: 25px;
+    margin-bottom: 15px;
+}
+
+.abgne-menu-20140101-1 input[type="radio"]:checked + label {
+	background-color: rgb(158, 154, 154);
+	color: rgb(255, 255, 255);
+}
+
+.b {
+    background-color: #000000;
+	color: rgb(255, 255, 255);
+}
+
+.login_btn:hover {
+    color: black;
+    background-color: #fec400;
+}
